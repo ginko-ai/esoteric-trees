@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-110 -110 220 220">
+  <!-- Previous lines maintained [omitted for brevity] -->
+  <g stroke="rgba(0,0,0,0.15)" stroke-width="0.5">
+    <!-- All previous lines here -->
+  </g>
+
+  <!-- Original circles -->
+  <g stroke="black" fill="none" stroke-width="1">
+    <!-- Center circle -->
+    <circle cx="0" cy="0" r="20"/>
+
+    <!-- Inner ring -->
+    <circle cx="0" cy="-40" r="20"/>
+    <circle cx="34.64" cy="-20" r="20"/>
+    <circle cx="34.64" cy="20" r="20"/>
+    <circle cx="0" cy="40" r="20"/>
+    <circle cx="-34.64" cy="20" r="20"/>
+    <circle cx="-34.64" cy="-20" r="20"/>
+
+
+    <!-- Center circle -->
+    <circle cx="0" cy="0" r="40"/>
+    <!-- Inner intersecting ring -->
+    <circle cx="0" cy="-40" r="40"/>
+    <circle cx="34.64" cy="-20" r="40"/>
+    <circle cx="34.64" cy="20" r="40"/>
+    <circle cx="0" cy="40" r="40"/>
+    <circle cx="-34.64" cy="20" r="40"/>
+    <circle cx="-34.64" cy="-20" r="40"/>
+
+  </g>
+
+  <!-- Center points with labels -->
+  <g fill="red">
+    <!-- Center point -->
+    <circle cx="0" cy="0" r="2"/>
+    <text x="5" y="5" font-size="8">0</text>
+
+    <!-- Inner ring points -->
+    <circle cx="0" cy="-40" r="2"/>
+    <text x="5" y="-35" font-size="8">1</text>
+
+    <circle cx="34.64" cy="-20" r="2"/>
+    <text x="39.64" y="-15" font-size="8">2</text>
+
+    <circle cx="34.64" cy="20" r="2"/>
+    <text x="39.64" y="25" font-size="8">3</text>
+
+    <circle cx="0" cy="40" r="2"/>
+    <text x="5" y="45" font-size="8">4</text>
+
+    <circle cx="-34.64" cy="20" r="2"/>
+    <text x="-29.64" y="25" font-size="8">5</text>
+
+    <circle cx="-34.64" cy="-20" r="2"/>
+    <text x="-29.64" y="-15" font-size="8">6</text>
+
+
+  </g>
+</svg>

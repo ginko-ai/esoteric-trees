@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-110 -110 220 220">
+  <!-- Center circle -->
+  <circle cx="0" cy="0" r="20" stroke="black" fill="none" stroke-width="1"/>
+
+  <!-- Inner ring of 6 circles -->
+  <circle cx="0" cy="-40" r="20" stroke="black" fill="none" stroke-width="1"/>
+  <circle cx="34.64" cy="-20" r="20" stroke="black" fill="none" stroke-width="1"/>
+  <circle cx="34.64" cy="20" r="20" stroke="black" fill="none" stroke-width="1"/>
+  <circle cx="0" cy="40" r="20" stroke="black" fill="none" stroke-width="1"/>
+  <circle cx="-34.64" cy="20" r="20" stroke="black" fill="none" stroke-width="1"/>
+  <circle cx="-34.64" cy="-20" r="20" stroke="black" fill="none" stroke-width="1"/>
+
+  <!-- Outer ring of 6 circles -->
+  <circle cx="0" cy="-80" r="20" stroke="black" fill="none" stroke-width="1"/>
+  <circle cx="69.28" cy="-40" r="20" stroke="black" fill="none" stroke-width="1"/>
+  <circle cx="69.28" cy="40" r="20" stroke="black" fill="none" stroke-width="1"/>
+  <circle cx="0" cy="80" r="20" stroke="black" fill="none" stroke-width="1"/>
+  <circle cx="-69.28" cy="40" r="20" stroke="black" fill="none" stroke-width="1"/>
+  <circle cx="-69.28" cy="-40" r="20" stroke="black" fill="none" stroke-width="1"/>
+</svg>
